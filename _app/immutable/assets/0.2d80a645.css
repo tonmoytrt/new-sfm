@@ -530,6 +530,7 @@ html {
   --tw-text-opacity: 1;
   color: hsl(var(--pc) / var(--tw-text-opacity));
   outline-color: hsl(var(--p) / 1);
+  border-radius: 15px;
 }
 .btn-primary.btn-active {
   --tw-border-opacity: 1;
@@ -872,6 +873,7 @@ html {
 .bg-primary {
   --tw-bg-opacity: 1;
   background-color: #19e4e8;
+  border-radius: 8px;
 }
 .bg-slate-900 {
   --tw-bg-opacity: 1;
